@@ -2,9 +2,9 @@
 
 [![Gitter](https://badges.gitter.im/thedillonb/CodeHub.svg)](https://gitter.im/thedillonb/CodeHub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-CodeHub is the best way to browse and maintain your GitHub repositories on any iPhone, iPod Touch, and iPad device! Keep an eye on your projects with the ability to view everything from pull requests to commenting on individual file diffs in the latest change set. CodeHub brings GitHub to your finger tips in a sleek and efficient design. 
+CodeHub is the best way to browse and maintain your GitHub repositories on any iPhone, iPod Touch, and iPad device! Keep an eye on your projects with the ability to view everything from pull requests to commenting on individual file diffs in the latest change set. CodeHub brings GitHub to your fingertips in a sleek and efficient design. 
 
-Follow the project on twitter: [@CodeHubApp](http://www.twitter.com/CodeHubApp)<br />
+Follow the project on Twitter: [@CodeHubApp](http://www.twitter.com/CodeHubApp)<br />
 Feature requests can be made on [GitHub](https://github.com/CodeHubApp/CodeHub/issues)<br />
 Additional information can be found on the [project's webpage](http://codehub-app.com/)
 
@@ -27,7 +27,7 @@ Contributions are absolutely welcome! The project is built on [Xamarin](https://
 
 ### I Can't Find My Organization
 
-CodeHub can see all organizations *if they are granted access*. GitHub, by default, disables [third-party access](https://help.github.com/articles/about-third-party-application-restrictions/) for new organizations. Because of this, CodeHub has no knowledge that those organizations even exist. GitHub keeps that information from the app. There are several ways to correct this. If you own the organization follow [these instructions](https://help.github.com/articles/enabling-third-party-application-restrictions-for-your-organization/). If you do not own the organization you can request access for CodeHub by following [these instructions](https://help.github.com/articles/requesting-organization-approval-for-third-party-applications/).
+CodeHub can see all organizations *if they are granted access*. GitHub, by default, disables [third-party access](https://help.github.com/articles/about-third-party-application-restrictions/) for new organizations. Because of this, CodeHub has no knowledge that those organizations even exist. GitHub keeps that information from the app. There are several ways to correct this. If you own the organization follow [these instructions](https://help.github.com/articles/enabling-third-party-application-restrictions-for-your-organization/). If you do not own the organization you can request access to CodeHub by following [these instructions](https://help.github.com/articles/requesting-organization-approval-for-third-party-applications/).
 
 ### I Can't Find My Repository
 
@@ -41,7 +41,7 @@ Try the [Gitter](https://gitter.im/thedillonb/CodeHub) channel.
 
 ## Credits
 
-A lot of thanks to many who contribute to open-source projects. The following were instrumental to building this app:
+A lot of thanks to many who contribute to open-source projects. The following were instrumental in building this app:
 
 * [Json.NET](http://www.newtonsoft.com/json)
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI)
